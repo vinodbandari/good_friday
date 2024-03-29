@@ -1,0 +1,38 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{novblockwishlist}prestashop>buywishlistproduct_607e1d854783c8229998ac2b5b6923d3'] = 'Simbolo no valido';
+$_MODULE['<{novblockwishlist}prestashop>buywishlistproduct_b0ffc4925401f6f4edb038f5ca954937'] = 'Debes iniciar sesión';
+$_MODULE['<{novblockwishlist}prestashop>cart_607e1d854783c8229998ac2b5b6923d3'] = 'Simbolo no valido';
+$_MODULE['<{novblockwishlist}prestashop>cart_7f4703ad4dc8669c76880c92e633524e'] = 'Éxito añadido.';
+$_MODULE['<{novblockwishlist}prestashop>cart_16a23698e7cf5188ce1c07df74298076'] = 'Debe iniciar sesión para administrar su lista de deseos.';
+$_MODULE['<{novblockwishlist}prestashop>managewishlist_a9839ad48cf107667f73bad1d651f2ca'] = 'No se encontró plantilla';
+$_MODULE['<{novblockwishlist}prestashop>my-account_037eeebf494cfb39f94eef0dd5655852'] = 'Mi lista de deseos';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist-ajax_4a84e5921e203aede886d04fc41a414b'] = 'eliminar este producto de mi lista de deseos';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist-ajax_f2a6c498fb90ee345d997f888fce3b18'] = 'Eliminar';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist-ajax_4b7d496eedb665d0b5f589f2f874e7cb'] = 'Detalle del producto';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist-ajax_d037160cfb1fa5520563302d3a32630a'] = 'Debes crear una lista de deseos antes de agregar productos.';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist-ajax_09dc02ecbb078868a3a86dded030076d'] = 'sin productos';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist-extra_2d96bb66d8541a89620d3c158ceef42b'] = 'Añadir a la lista de deseos';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist-extra_ec211f7c20af43e742bf2570c3cb84f9'] = 'Agregar';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist-extra_15b94c64c4d5a4f7172e5347a36b94fd'] = 'agregar a mi lista de deseos';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_a61da28836bda0e98415d2134a708fb8'] = 'Bloque de lista de deseos de Vinova';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_7244141a5de030c4c882556f4fd70a8b'] = 'Agrega un bloque que contiene las listas de deseos del cliente.';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_9ae79c1fccd231ac7fbbf3235dbf6326'] = 'Mi lista de deseos';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_5ef2d617096ae7b47a83f3d4de9c84bd'] = 'Activar módulo: elección no válida.';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_c888438d14855d7d96a2724ee9c306bd'] = 'Ajustes actualizan';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_8a6830ac12924a940aa0a83d5e7c76ff'] = 'El producto se agregó correctamente a su lista de deseos.';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_f37a915845ed02edb3e8274ee037e222'] = 'Ir a listas de deseos';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_300225ee958b6350abc51805dab83c24'] = 'Seguir comprando';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_deb10517653c255364175796ace3553f'] = 'Producto';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_694e8d1f2ee056f98ee488bdc4982d73'] = 'Cantidad';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_502996d9790340c5fd7b86a5b93b1c9f'] = 'Prioridad';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_655d20c1ca69519ca647684edbb2db35'] = 'Alto';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_87f8a6ab85c9ced3702b4ea641ad4bb5'] = 'Medio';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_28d0edd045e05cf5af64e35ae0c4c6ef'] = 'Bajo';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_e0fd9b310aba555f96e76738ff192ac3'] = 'Listas de deseos';
+$_MODULE['<{novblockwishlist}prestashop>novblockwishlist_862af8838fba380d3b30e63546a394e5'] = 'Sin lista de deseos.';
+$_MODULE['<{novblockwishlist}prestashop>managewishlist_f2a6c498fb90ee345d997f888fce3b18'] = 'Eliminar';
+$_MODULE['<{novblockwishlist}prestashop>managewishlist_4b7d496eedb665d0b5f589f2f874e7cb'] = 'Detalle del producto';
+$_MODULE['<{novblockwishlist}prestashop>managewishlist_09dc02ecbb078868a3a86dded030076d'] = 'sin productos';

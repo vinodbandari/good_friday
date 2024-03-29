@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_c2fcb3469a2c16ff4c31a95da1c9c6ac'] = 'Vinova Iniciar sesión Social';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_e734b5e4f991463a2ad6f25a5650b19e'] = 'Permitir que los clientes inicien sesión con Facebook, cuenta social de Google';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_e6c17076e32c0a98c01111e596cc0a6b'] = 'Para habilitar el inicio de sesión de Facebook, debe completar la clave API como un secreto';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_774c388e84d61cb2f0675288023de5d2'] = 'Para habilitar el inicio de sesión de Twitter, debe completar la clave API como un secreto';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_53f4e6f82b6e7ec56ec4758abfd15373'] = 'Para habilitar el inicio de sesión de Google, debe completar la clave API como un secreto';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_20015706a8cbd457cbb6ea3e7d5dc9b3'] = 'Configuración actualizada';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_0ff07a07ae48e08bb49689b91d99b7a8'] = 'Configuración Iniciar sesión Redes sociales';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_0d4c14a20b4d98a5de54e1480bf99a25'] = 'Surgir';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_240b48c1f1d8e69c3fea190cc83d3505'] = 'Seleccione un tipo de inicio de sesión emergente cuando los clientes hagan clic en el botón iniciar sesión social';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Activado';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_b9f5c797ebbf55adccdd8539a65a0241'] = 'Discapacitado';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_37c485c8d229d4b72128bc0e06b6064f'] = 'Iniciar sesión en Facebook';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_93cba07454f06a4a960172bbd6e2a435'] = 'sí';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_bafd7322c6e97d25b6299b5d6fe8920b'] = 'No';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_9040ae9376d21f96993c4272f9371f2c'] = 'ID de API de Facebook';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_c1e6a941d3b84e435bd1b10c566520be'] = 'Secreto de la API de Facebook';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_42e23e6fc4bb37416ea65dac1506d627'] = 'Inicio de sesión de Twitter';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_3b0ed8a1fab229782488201365c49fbb'] = 'Clave de API de Twitter';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_c007d1bb3eea37970ed447043d56377c'] = 'Secreto de la API de Twitter';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_a22a1a7df8bae4e34a39b839da4e97d4'] = 'Inicio de sesión de Google';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_e78b330b2cd5384bd47311d65381a8bd'] = 'ID de cliente de la API de Google';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_71ad8195df4ef1a5b93ee4161cdd536f'] = 'Secreto de la API de Google';
+$_MODULE['<{novloginsocial}prestashop>novloginsocial_c9cc8cce247e49bae79f15173ce97354'] = 'Salvar';
+$_MODULE['<{novloginsocial}prestashop>notification_5cd00856c8e012ca6ae25232ddfab5b3'] = 'Problema con el inicio de sesión';
+$_MODULE['<{novloginsocial}prestashop>notification_00351b1ed58ba844d732e89e33b5fdca'] = 'Hay algún problema con el inicio de sesión. Utilice el inicio de sesión / registro tradicional';
+$_MODULE['<{novloginsocial}prestashop>authentication_010a9915bb1925ce2e571b698d44ea05'] = 'Iniciar sesión usando la red social';
+$_MODULE['<{novloginsocial}prestashop>authentication_d85544fce402c7a2a96a48078edaf203'] = 'Facebook';
+$_MODULE['<{novloginsocial}prestashop>authentication_2491bc9c7d8731e1ae33124093bc7026'] = 'Gorjeo';
+$_MODULE['<{novloginsocial}prestashop>authentication_8b36e9207c24c76e6719268e49201d94'] = 'Google';
+$_MODULE['<{novloginsocial}prestashop>checkout_010a9915bb1925ce2e571b698d44ea05'] = ' Iniciar sesión usando la red social';
+$_MODULE['<{novloginsocial}prestashop>checkout_d85544fce402c7a2a96a48078edaf203'] = 'Facebook';
+$_MODULE['<{novloginsocial}prestashop>checkout_2491bc9c7d8731e1ae33124093bc7026'] = 'Gorjeo';
+$_MODULE['<{novloginsocial}prestashop>checkout_8b36e9207c24c76e6719268e49201d94'] = 'Google';

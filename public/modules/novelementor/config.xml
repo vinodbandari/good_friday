@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>novelementor</name>
+    <displayName><![CDATA[Vinova Themes Elementor]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Vinova Themes Elementor - Page builder based on PrestaShop Elementor]]></description>
+    <author><![CDATA[VinovaThemes]]></author>
+    <tab><![CDATA[content_management]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall this module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

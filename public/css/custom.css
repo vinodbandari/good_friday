@@ -1,0 +1,15 @@
+.aasss {
+  color: #000;
+}
+
+.ui-menu
+{
+  z-index : 3500 !important;
+}
+
+.sort-font
+{
+    color: #262626;
+    font-size:15px;
+    margin:0 10px;
+}
